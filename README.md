@@ -5,7 +5,8 @@ Downloaded dataset from:  https://bit.ly/2QazgkG
 2 folders inside dataset: Au and Tp
 
 Authentic images:(Au):
-Eg of filename:Au_ani_00001.jpg 
+Eg of filename:
+    Au_ani_00001.jpg 
 Au: Authentic 
 ani: animal category 
 Other categories: arc (architecture), art, cha (characters), ind (indoor), nat (nature), pla (plants), txt (texture)
