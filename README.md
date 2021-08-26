@@ -6,6 +6,7 @@ Downloaded dataset from:  https://bit.ly/2QazgkG
 
 Authentic images:(Au):
 Eg of filename:
+
     Au_ani_00001.jpg 
 Au: Authentic 
 ani: animal category 
